@@ -1,0 +1,202 @@
+[
+    {
+        "id": "semilla-01",
+        "titulo": "Abarco",
+        "imagen": "./img/semillas/01.jpg",
+        "categoria": {
+            "nombre": "Semillas",
+            "id": "semillas"
+        },
+        "precio": 2500
+    },
+    {
+        "id": "semilla-02",
+        "titulo": "Achiote",
+        "imagen": "./img/semillas/02.jpg",
+        "categoria": {
+            "nombre": "Semillas",
+            "id": "semillas"
+        },
+        "precio": 4000
+    },
+    {
+        "id": "semilla-03",
+        "titulo": "Hauyelo",
+        "imagen": "./img/semillas/03.jpg",
+        "categoria": {
+            "nombre": "Semillas",
+            "id": "semillas"
+        },
+        "precio": 5000
+    },
+    {
+        "id": "semilla-04",
+        "titulo": "Jazmín",
+        "imagen": "./img/semillas/04.jpg",
+        "categoria": {
+            "nombre": "Semillas",
+            "id": "semillas"
+        },
+        "precio": 6000
+    },
+    {
+        "id": "kitdeherramienta-01",
+        "titulo": "Kit de Herramientas 01",
+        "imagen": "./img/kits de herramientas/01.jpg",
+        "categoria": {
+            "nombre": "Kit de Herramientas",
+            "id": "kit de herramientas"
+        },
+        "precio": 150000
+    },
+    {
+        "id": "kitdeherramienta-02",
+        "titulo": "Kit de Herramientas 02",
+        "imagen": "./img/kits de herramientas/02.jpg",
+        "categoria": {
+            "nombre": "Kit de Herramientas",
+            "id": "kit de herramientas"
+        },
+        "precio": 120000
+    },
+    {
+        "id": "kitdeherramienta-03",
+        "titulo": "Kit de Herramientas 03",
+        "imagen": "./img/kits de herramientas/03.jpg",
+        "categoria": {
+            "nombre": "Kit de Herramientas",
+            "id": "kit de herramientas"
+        },
+        "precio": 223000
+    },
+    {
+        "id": "kitdeherramienta-04",
+        "titulo": "Kit de Herramientas 04",
+        "imagen": "./img/kits de herramientas/04.jpg",
+        "categoria": {
+            "nombre": "Kit de Herramientas",
+            "id": "kit de herramientas"
+        },
+        "precio": 142000
+    },
+    {
+        "id": "fertilizante-01",
+        "titulo": "Orbiagro",
+        "imagen": "./img/fertilizantes/01.jpg",
+        "categoria": {
+            "nombre": "Fertilizantes",
+            "id": "pantalones"
+        },
+        "precio": 23500
+    },
+    {
+        "id": "fertilizante-02",
+        "titulo": "Biotrapo",
+        "imagen": "./img/fertilizantes/02.jpeg",
+        "categoria": {
+            "nombre": "Fertilizantes",
+            "id": "fertilizantes"
+        },
+        "precio": 18000
+    },
+    {
+        "id": "fertilizante-03",
+        "titulo": "Humus",
+        "imagen": "./img/fertilizantes/03.jpeg",
+        "categoria": {
+            "nombre": "Fertilizantes",
+            "id": "fertilizantes"
+        },
+        "precio": 25000
+    },
+    {
+        "id": "fertilizante-04",
+        "titulo": "Micorrizas",
+        "imagen": "./img/fertilizantes/04.jpg",
+        "categoria": {
+            "nombre": "Fertilizantes",
+            "id": "fertilizantes"
+        },
+        "precio": 25500
+    },
+    {
+        "id": "sustratos-01",
+        "titulo": "Arena",
+        "imagen": "./img/sustratos/01.jpg",
+        "categoria": {
+            "nombre": "Sustratos",
+            "id": "sustratos"
+        },
+        "precio": 80000
+    },
+    {
+        "id": "sustratos-02",
+        "titulo": "Aserrín",
+        "imagen": "./img/sustratos/02.jpg",
+        "categoria": {
+            "nombre": "Sustratos",
+            "id": "sustratos"
+        },
+        "precio": 35000
+    },
+    {
+        "id": "sustratos-03",
+        "titulo": "Corteza de Pino",
+        "imagen": "./img/sustratos/03.jpg",
+        "categoria": {
+            "nombre": "Sustratos",
+            "id": "sustratos"
+        },
+        "precio": 45000
+    },
+    {
+        "id": "sustratos-04",
+        "titulo": "Grava",
+        "imagen": "./img/sustratos/04.jpg",
+        "categoria": {
+            "nombre": "Sustratos",
+            "id": "sustratos"
+        },
+        "precio": 75000
+    },
+    {
+        "id": "aromaticas-01",
+        "titulo": "Albahaca",
+        "imagen": "./img/aromaticas/01.jpg",
+        "categoria": {
+            "nombre": "Aromáticas",
+            "id": "aromaticas"
+        },
+        "precio": 80000
+    },
+    {
+        "id": "aromaticas-02",
+        "titulo": "Cedrón",
+        "imagen": "./img/aromaticas/02.jpg",
+        "categoria": {
+            "nombre": "Aromáticas",
+            "id": "aromaticas"
+        },
+        "precio": 35000
+    },
+    {
+        "id": "aromaticas-03",
+        "titulo": "Orégano",
+        "imagen": "./img/aromaticas/03.png",
+        "categoria": {
+            "nombre": "Aromáticas",
+            "id": "aromaticas"
+        },
+        "precio": 45000
+    },
+    {
+        "id": "aromaticas-04",
+        "titulo": "Ruda",
+        "imagen": "./img/aromaticas/04.jpg",
+        "categoria": {
+            "nombre": "Aromáticas",
+            "id": "aromaticas"
+        },
+        "precio": 75000
+    }
+]
